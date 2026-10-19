@@ -206,9 +206,9 @@ PluginComponent {
         width: parent?.width ?? 0
         implicitHeight: rowColumn.implicitHeight + Theme.spacingS * 2
         radius: Theme.cornerRadius
-        color: selectArea.containsMouse ? Theme.primaryHoverLight : Theme.surfaceLight
+        color: selectArea.containsMouse || isDefault ? Theme.primaryHoverLight : Theme.surfaceLight
         border.color: isDefault ? Theme.primary : Theme.outlineLight
-        border.width: isDefault ? 2 : 1
+        border.width: Theme.layerOutlineWidth
 
         // Clicking the card makes it the default input
         MouseArea {
@@ -244,8 +244,6 @@ PluginComponent {
                     anchors.verticalCenter: parent.verticalCenter
                     iconName: row.nodeMuted ? "mic_off" : row.iconName
                     iconColor: row.nodeMuted ? Theme.error : Theme.surfaceText
-                    buttonSize: 32
-                    iconSize: 18
                     onClicked: root.setMuted(row.node, !row.nodeMuted)
                 }
 
@@ -259,9 +257,6 @@ PluginComponent {
                     valueOverride: Math.round(row.nodeVolume * 100)
                     showValue: true
                     unit: "%"
-                    thumbOutlineColor: Theme.surfaceVariant
-                    trackColor: Theme.ccSliderTrackColor
-                    trackOpacity: Theme.ccSliderTrackOpacity
                     onSliderValueChanged: newValue => {
                         root.setVolume(row.node, newValue / 100);
                         if (newValue > 0 && row.nodeMuted)
