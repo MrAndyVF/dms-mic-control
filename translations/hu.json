@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Mikrofon"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Használja: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Egy alkalmazás sem használja"
+  },
+  "Inputs": {
+    "Inputs": "Bemenetek"
+  },
+  "Apps": {
+    "Apps": "Alkalmazások"
+  },
+  "Default": {
+    "Default": "Alapértelmezett"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Automatikus elrejtés"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Be: az ikon csak akkor jelenik meg, amikor egy alkalmazás használja a mikrofont (mint a KDE Plasmában). Ki: mindig látható."
+  }
+}

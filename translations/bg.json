@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Микрофон"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Използва се от: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Нито едно приложение не го използва"
+  },
+  "Inputs": {
+    "Inputs": "Входове"
+  },
+  "Apps": {
+    "Apps": "Приложения"
+  },
+  "Default": {
+    "Default": "По подразбиране"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Автоматично скриване"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Вкл.: иконата се показва само докато приложение използва микрофона (като в KDE Plasma). Изкл.: винаги видима."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "麦克风"
+  },
+  "In use by: %1": {
+    "In use by: %1": "正在使用：%1"
+  },
+  "No app is using it": {
+    "No app is using it": "没有应用在使用"
+  },
+  "Inputs": {
+    "Inputs": "输入"
+  },
+  "Apps": {
+    "Apps": "应用"
+  },
+  "Default": {
+    "Default": "默认"
+  },
+  "Auto-hide": {
+    "Auto-hide": "自动隐藏"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "开启：仅在有应用使用麦克风时显示图标（类似 KDE Plasma）。关闭：始终显示。"
+  }
+}

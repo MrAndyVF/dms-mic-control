@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Мікрофон"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Використовується: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Жодна програма його не використовує"
+  },
+  "Inputs": {
+    "Inputs": "Входи"
+  },
+  "Apps": {
+    "Apps": "Програми"
+  },
+  "Default": {
+    "Default": "Типовий"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Автоприховування"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Увімк.: значок з'являється лише тоді, коли програма використовує мікрофон (як у KDE Plasma). Вимк.: завжди видимий."
+  }
+}

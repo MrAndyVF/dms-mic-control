@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "マイク"
+  },
+  "In use by: %1": {
+    "In use by: %1": "使用中: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "使用中のアプリはありません"
+  },
+  "Inputs": {
+    "Inputs": "入力"
+  },
+  "Apps": {
+    "Apps": "アプリ"
+  },
+  "Default": {
+    "Default": "デフォルト"
+  },
+  "Auto-hide": {
+    "Auto-hide": "自動的に隠す"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "オン: アプリがマイクを使用している間だけアイコンを表示します (KDE Plasma と同様)。オフ: 常に表示します。"
+  }
+}

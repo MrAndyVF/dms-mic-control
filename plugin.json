@@ -1,0 +1,14 @@
+{
+    "id": "micControl",
+    "name": "Mic Control",
+    "description": "Plasma-style microphone indicator: left click mutes, right click opens input and app controls",
+    "version": "1.0.0",
+    "author": "andress",
+    "icon": "mic",
+    "type": "widget",
+    "capabilities": ["dankbar-widget"],
+    "component": "./MicControl.qml",
+    "settings": "./MicControlSettings.qml",
+    "permissions": ["settings_read", "settings_write"],
+    "requires_dms": ">=1.6.3"
+}

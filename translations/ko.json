@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "마이크"
+  },
+  "In use by: %1": {
+    "In use by: %1": "사용 중인 앱: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "사용 중인 앱이 없습니다"
+  },
+  "Inputs": {
+    "Inputs": "입력"
+  },
+  "Apps": {
+    "Apps": "앱"
+  },
+  "Default": {
+    "Default": "기본값"
+  },
+  "Auto-hide": {
+    "Auto-hide": "자동 숨기기"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "켜짐: 앱이 마이크를 사용하는 동안에만 아이콘이 표시됩니다 (KDE Plasma처럼). 꺼짐: 항상 표시됩니다."
+  }
+}

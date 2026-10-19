@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Mikrofono"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Uzata de: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Neniu aplikaĵo uzas ĝin"
+  },
+  "Inputs": {
+    "Inputs": "Enigoj"
+  },
+  "Apps": {
+    "Apps": "Aplikaĵoj"
+  },
+  "Default": {
+    "Default": "Defaŭlta"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Aŭtomate kaŝi"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Ŝaltita: la piktogramo aperas nur dum aplikaĵo uzas la mikrofonon (kiel en KDE Plasma). Malŝaltita: ĉiam videbla."
+  }
+}

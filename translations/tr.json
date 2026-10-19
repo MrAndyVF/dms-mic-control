@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Mikrofon"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Kullanan: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Hiçbir uygulama kullanmıyor"
+  },
+  "Inputs": {
+    "Inputs": "Girişler"
+  },
+  "Apps": {
+    "Apps": "Uygulamalar"
+  },
+  "Default": {
+    "Default": "Varsayılan"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Otomatik gizle"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Açık: simge yalnızca bir uygulama mikrofonu kullanırken görünür (KDE Plasma'daki gibi). Kapalı: her zaman görünür."
+  }
+}

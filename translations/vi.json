@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Micrô"
+  },
+  "In use by: %1": {
+    "In use by: %1": "Đang được dùng bởi: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Không có ứng dụng nào đang dùng"
+  },
+  "Inputs": {
+    "Inputs": "Đầu vào"
+  },
+  "Apps": {
+    "Apps": "Ứng dụng"
+  },
+  "Default": {
+    "Default": "Mặc định"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Tự động ẩn"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Bật: biểu tượng chỉ hiện khi có ứng dụng đang dùng micrô (như KDE Plasma). Tắt: luôn hiển thị."
+  }
+}

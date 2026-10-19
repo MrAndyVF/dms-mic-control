@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "Micrófono"
+  },
+  "In use by: %1": {
+    "In use by: %1": "En uso por: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "Ninguna aplicación lo está usando"
+  },
+  "Inputs": {
+    "Inputs": "Entradas"
+  },
+  "Apps": {
+    "Apps": "Aplicaciones"
+  },
+  "Default": {
+    "Default": "Predeterminado"
+  },
+  "Auto-hide": {
+    "Auto-hide": "Ocultar automáticamente"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "Activado: el icono solo aparece mientras una aplicación usa el micrófono (como en KDE Plasma). Desactivado: siempre visible."
+  }
+}

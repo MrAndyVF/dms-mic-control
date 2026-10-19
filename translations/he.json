@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "מיקרופון"
+  },
+  "In use by: %1": {
+    "In use by: %1": "בשימוש על ידי: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "אף יישום לא משתמש בו"
+  },
+  "Inputs": {
+    "Inputs": "כניסות"
+  },
+  "Apps": {
+    "Apps": "יישומים"
+  },
+  "Default": {
+    "Default": "ברירת מחדל"
+  },
+  "Auto-hide": {
+    "Auto-hide": "הסתרה אוטומטית"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "מופעל: הסמל מופיע רק כאשר יישום משתמש במיקרופון (כמו ב-KDE Plasma). כבוי: תמיד גלוי."
+  }
+}

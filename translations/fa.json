@@ -1,0 +1,26 @@
+{
+  "Microphone": {
+    "Microphone": "میکروفون"
+  },
+  "In use by: %1": {
+    "In use by: %1": "در حال استفاده توسط: %1"
+  },
+  "No app is using it": {
+    "No app is using it": "هیچ برنامه‌ای از آن استفاده نمی‌کند"
+  },
+  "Inputs": {
+    "Inputs": "ورودی‌ها"
+  },
+  "Apps": {
+    "Apps": "برنامه‌ها"
+  },
+  "Default": {
+    "Default": "پیش‌فرض"
+  },
+  "Auto-hide": {
+    "Auto-hide": "پنهان‌سازی خودکار"
+  },
+  "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": {
+    "On: the icon only appears while an app is using the microphone (like KDE Plasma). Off: always visible.": "روشن: نماد فقط زمانی نمایش داده می‌شود که برنامه‌ای از میکروفون استفاده کند (مانند KDE Plasma). خاموش: همیشه نمایان."
+  }
+}
